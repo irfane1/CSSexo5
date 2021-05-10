@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+
+#titre{
+    background: red;
+    height: 10px;
+}
+
+h2{
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+}
+
+a{
+    color:green;
+    text-decoration: underline;
+}
+
+a:hover{
+    color:rosybrown;
+}
